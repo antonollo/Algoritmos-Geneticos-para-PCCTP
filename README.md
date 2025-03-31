@@ -1,1 +1,1 @@
-# Algoritmos-Gen-ticos-para-Maximiza-o-de-Estabilidade-de-Barcos
+# Algoritmos-Genéticos-para-Maximização-de-Estabilidade-de-Barcos
