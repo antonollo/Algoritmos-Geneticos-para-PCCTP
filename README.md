@@ -5,18 +5,18 @@ O objetivo deste repositório está em tornar público tudo que foi aprendido a 
 
 * O trabalho foi desenvolvido em equipe, ou seja, cada parte ficou delegada a um grupo específico para elaborá-la. Das equipes envolvidas:
   - Equipe da Modelagem 3D em (nome do aplicativo):
-    1.
-    2.
-    3.
-    4. 
+    1. aaaa
+    2. aaaa
+    3. aaaa
+    4. aaaa
   - Equipe da Elaboração do Algoritmo Genético:
-    1.
-    2.
-    3.
-    4.
+    1. aaaa
+    2. aaaa
+    3. aaaa
+    4. aaaa
   - Equipe da Construção do Protótipo de Balsa:
-    1.
-    2.
-    3.
-    4.
+    1. aaaa
+    2. aaaa
+    3. aaaa
+    4. aaaa
     
