@@ -22,6 +22,7 @@ O objetivo deste repositório está em tornar público tudo que foi aprendido a 
 # Um pouco de Algoritmos Genéticos:
 
   Naturalmente, os Algoritmos Genéticos são mais comumente aplicados para construção e otimização de Redes Neurais em Inteligências Artificiais. Fundamentando em Algoritmos Heurísticos (para os leigos, é basicamente uma classificação de algoritmo que procura se restringir a um certo espaço de soluções possíveis, definido por uma série de restrições), o método auxilia para a convergência de um resultado ótimo, que, por sua vez, pode vir a ser a melhor solução para o problema. 
+  <br/>
   A construção da definição de "melhor resposta" para o algoritmo pode ser vista da mesma forma que a construção e definição do melhor indivíduo é enxergada na Teoria da Evolução, do renomado naturalista Charles Darwin. Em resumo, Algoritmos Genéticos seguem não só conceitos da Teoria Evolucionista, como a Seleção Natural e mutação de indivíduos, mas também segue conceitos da Genética, como o fenômeno cromossômico de Crossing-Over. 
   
 ---
