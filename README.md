@@ -1,4 +1,4 @@
-# Algoritmos Genéticos para Maximização de Estabilidade de Barcos
+# Algoritmo Genético Adaptativo para PCCTP
 
 O repositório em questão envolve todo o material que foi desenvolvido e obtido durante o período de elaboração de um trabalho muito interessante sobre Problemas de Otimização envolvendo problemas clássicos de Carregamento de Balsa. A atividade foi proposta como sendo atividade avaliativa da disciplina de Mecânica dos Sólidos e Fluidos para alunos de Engenharia. 
 O objetivo deste repositório está em tornar público tudo que foi aprendido a respeito de Computação Evolutiva, vinculado a Problemas de Otimização. O modelo de otimização empregado seguiu a estrutura de Algoritmos Genéticos para obtenção de uma solução ótima. 
