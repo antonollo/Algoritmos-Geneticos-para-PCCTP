@@ -33,3 +33,5 @@
 
 1. AZEVEDO, Anibal Tavares de. *Resolução do problema de carregamento e descarregamento 3D de contêineres em terminais portuários, via representação por regras e algoritmo genético*. 2011. Acessado em: 09 de abril de 2025. 
 2. XIANG, Xianbo. *Optimization of Heterogeneous Container Loading Problem with Adaptive Genetic Algorithm*. 2018. Acessado em: 07 de abril de 2025.
+---
+**Desenvolvido pela turma de Mecânica dos Sólidos e Fluidos, na Universidade do Estado do Amazonas, no período 2025/1, sob orientação do professor Rubelmar Maia de Azevedo C. Neto**
