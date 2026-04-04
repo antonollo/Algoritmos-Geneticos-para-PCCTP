@@ -4,6 +4,9 @@
 
 <p>O objetivo deste repositório está em tornar público tudo que foi aprendido a respeito de Computação Evolutiva, vinculado a Problemas de Otimização e Logística. O modelo de otimização empregado seguiu a estrutura de Algoritmos Genéticos Adaptativos para obtenção de uma solução ótima. </p>
 
+- Representantes da Equipe:
+  1. **Antonio Gabriel Nunes Martins** (Eng. Computação - UEA)
+  2. **Thiago Cordeiro de Melo** (Eng. Computação - UEA)
 
 * O trabalho foi desenvolvido em equipe, ou seja, cada parte ficou delegada a um grupo específico para elaborá-la. Das equipes envolvidas:
   - Equipe da Modelagem 3D no Blender:
